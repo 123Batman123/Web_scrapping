@@ -1,0 +1,32 @@
+[
+  {
+    "reference": "https://spb.hh.ru/vacancy/73468878?from=vacancy_search_list&query=python",
+    "salary": "з/п не указана",
+    "company": "Сбер. Data Science",
+    "city": "Москва"
+  },
+  {
+    "reference": "https://spb.hh.ru/vacancy/72074865?from=vacancy_search_list&query=python",
+    "salary": "з/п не указана",
+    "company": "Сбер. Data Science",
+    "city": "Москва"
+  },
+  {
+    "reference": "https://spb.hh.ru/vacancy/74158160?from=vacancy_search_list&query=python",
+    "salary": "з/п не указана",
+    "company": "Loyalty Labs",
+    "city": "Санкт-Петербург"
+  },
+  {
+    "reference": "https://spb.hh.ru/vacancy/73581287?from=vacancy_search_list&query=python",
+    "salary": "от 130 000 до 200 000 руб. на руки",
+    "company": "ООО Юнит",
+    "city": "Москва"
+  },
+  {
+    "reference": "https://spb.hh.ru/vacancy/73247485?from=vacancy_search_list&query=python",
+    "salary": "от 30 000 до 50 000 руб. на руки",
+    "company": "Stik",
+    "city": "Санкт-Петербург"
+  }
+]
